@@ -1,0 +1,17 @@
+# -- Global --
+
+## Virtual Environments
+venv
+
+## Pycache
+__pycache__/
+
+# -- Project specific --
+
+## invoice-parser
+
+### Sample data files
+/invoice-parser/data
+
+### invoice2data templates
+/invoice-parser/app/invoice2data/templates
