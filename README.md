@@ -70,9 +70,7 @@ Suggested workflow:
 
 ## Built With
 
-[![Python][python-shield]][python-url]\
-[![Flask][flask-shield]][flask-url]\
-[![invoice2data][invoice2data-shield]][invoice2data-url]
+[![Python][python-shield]][python-url]
 
 ## Contributing
 

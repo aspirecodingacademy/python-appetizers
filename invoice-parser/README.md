@@ -65,7 +65,8 @@ This uses [invoice2data][invoice2data-url] on a simple flask app to take in file
 
 [![Python][python-shield]][python-url]\
 [![Flask][flask-shield]][flask-url]\
-[![invoice2data][invoice2data-shield]][invoice2data-url]
+[![invoice2data][invoice2data-shield]][invoice2data-url]\
+[![HTML5][html-shield]][html-url]\
 
 ## Contributing
 
@@ -122,6 +123,8 @@ Thank you for your interest in contributing to this project. Open source project
 [flask-url]: https://flask.palletsprojects.com/
 [invoice2data-shield]: https://img.shields.io/badge/invoice2data-000000?style=for-the-badge&logo=invoice2data&logoColor=white
 [invoice2data-url]: https://github.com/invoice-x/invoice2data
+[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 
 <!-- license -->
 
