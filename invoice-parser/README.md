@@ -66,7 +66,7 @@ This uses [invoice2data][invoice2data-url] on a simple flask app to take in file
 [![Python][python-shield]][python-url]\
 [![Flask][flask-shield]][flask-url]\
 [![invoice2data][invoice2data-shield]][invoice2data-url]\
-[![HTML5][html-shield]][html-url]\
+[![HTML5][html-shield]][html-url]
 
 ## Contributing
 
